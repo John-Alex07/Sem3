@@ -1,0 +1,10 @@
+Lab assignment 4
+Write a C program to Implementation Stack Using Array.
+Write a C program to Implementation Stack Using following structure definition.
+struct number 
+{        int data;
+};
+void main()
+{      struct number arr[10];
+        int top=-1;
+}

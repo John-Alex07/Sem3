@@ -1,0 +1,9 @@
+LAB 3
+
+Write a the C program to create an array by inserting  N elements in it then print all the numbers which are Armstrong number from the array [use function]. 
+Write a C program Create a  Dynamic array and then Reverse the array and then finally print the array [use function].
+Write a C program  to  enter a  binary number in a randomly order and then segregate the numbers such that all ones come to one side and all zeroes come to another side , for example
+     Input :  001100111
+
+ Output : 000011111 OR 111110000.
+
